@@ -1,3 +1,3 @@
 # apnacollege
 this is my first project
-author daniyal hanif
+author daniyal hanif memon
